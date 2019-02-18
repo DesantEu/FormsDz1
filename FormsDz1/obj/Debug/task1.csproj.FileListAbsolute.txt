@@ -1,0 +1,10 @@
+C:\Users\game\source\repos\FormsDz1\FormsDz1\bin\Debug\FormsDz1.exe.config
+C:\Users\game\source\repos\FormsDz1\FormsDz1\bin\Debug\FormsDz1.exe
+C:\Users\game\source\repos\FormsDz1\FormsDz1\bin\Debug\FormsDz1.pdb
+C:\Users\game\source\repos\FormsDz1\FormsDz1\obj\Debug\task1.csprojAssemblyReference.cache
+C:\Users\game\source\repos\FormsDz1\FormsDz1\obj\Debug\FormsDz1.Form1.resources
+C:\Users\game\source\repos\FormsDz1\FormsDz1\obj\Debug\FormsDz1.Properties.Resources.resources
+C:\Users\game\source\repos\FormsDz1\FormsDz1\obj\Debug\task1.csproj.GenerateResource.cache
+C:\Users\game\source\repos\FormsDz1\FormsDz1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\game\source\repos\FormsDz1\FormsDz1\obj\Debug\FormsDz1.exe
+C:\Users\game\source\repos\FormsDz1\FormsDz1\obj\Debug\FormsDz1.pdb
